@@ -11,7 +11,7 @@ $ pip3 install- r requirements.txt
 ### Spouštění
 Spouštění souboru main.py z příkazové řádky vyžaduje dva povinné argumenty: Okres a Jmeno vystupniho souboru
 
-Př.: C:\Users\Martin\Documents\Python akademie\Projekt3\virtualni_prostredi_project3>python main Jeseník "Vysledky voleb okres Jesenik"
+Př.: C:\Users\Martin\Documents\Python akademie\Projekt3\virtualni_prostredi_project3>python main.py Jeseník "Vysledky voleb okres Jesenik"
 
 Vyledky voleb se nasledně stáhonou jako .csv soubor se zadaným jménem
 
